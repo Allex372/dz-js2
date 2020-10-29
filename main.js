@@ -87,6 +87,7 @@
 //
 // console.log(mass)
 
+
 // for (i=1;i<=10;i++){
 //     console.log(i)
 //     document.write(i)
@@ -153,4 +154,25 @@
 //     for (i = 1; i <= 60; i++) {
 //         console.log(i)
 //     }
+// }
+
+
+/////ДОДАТКОВО/////
+// const mass = ['a','b','c'];
+// for (i=0;i<mass.length;i++){
+//     console.log(mass[i])
+//     document.write(mass[i])
+// }
+
+// const mass = ['a','b','c'];
+// let i =0;
+// while (i<mass.length){
+//     document.write(mass[i])
+//     i++;
+// }
+//
+// const mass = ['a', 'b', 'c'];
+// for (let item of mass){
+//     document.write(item);
+//     console.log(item)
 // }
